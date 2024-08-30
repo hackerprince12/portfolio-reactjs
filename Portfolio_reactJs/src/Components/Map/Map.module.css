@@ -1,0 +1,23 @@
+.address{
+  padding-top: 10px;
+  
+  
+}
+
+.map{
+ 
+  border: 0;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+
+.mapdiv{
+  
+  overflow: hidden;
+  height: 0;
+  padding-bottom: 30%;
+  position: relative;
+}
