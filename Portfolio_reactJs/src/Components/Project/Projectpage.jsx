@@ -4,6 +4,7 @@ import bookStore from '../Cards/bookStore1.png';
 import portfolio from '../Cards/portfolio1.png';
 import codeEditor from '../Cards/codeimg1.png';
 import ChatApp from '../Cards/ChatApp.png';
+import twitter from '../Cards/twitter-Clone.png';
 const Projectpage = () => {
   return (
    <>
@@ -13,9 +14,10 @@ const Projectpage = () => {
      
 
    <Project name="ChatApp" image={ChatApp} title='' link='https://chatapp2-j0ol.onrender.com'/>
+<Project name="Twitter Clone" image={twitter} title='' link='https://twitter-clone-ikxz.onrender.com/'/>
 
-<Project name="Portfolio" image={portfolio} title='' link='https://princekumarpatelportfolio.netlify.app/'/>
 <Project name="BookStore" image={bookStore} title='' link='https://bookstore-frontend-l4e5.onrender.com/'/>
+<Project name="Portfolio" image={portfolio} title='' link='https://princekumarpatelportfolio.netlify.app/'/>
 <Project name="CodeEditor" image={codeEditor} title='' link='https://silver-meerkat-c71d63.netlify.app/' />
 
 

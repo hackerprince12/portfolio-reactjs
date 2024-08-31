@@ -18,7 +18,7 @@ const About = () => {
           </p>
           <div className="items-start gap-4 px-6 mb-4">
             <button className="btn hover:bg-yellow-300 bg-yellow-400">
-              <a href="https://drive.google.com/file/d/1pnSjZJ-pCicd5nfw04l1-OBtj0HET2Oy/view?usp=drivesdk">
+              <a href="https://drive.google.com/file/d/1sU9KnX9wVOV6s2qcdmfjZP4zgMIOuUcy/view?usp=drivesdk">
                 Download Resume
               </a>
             </button>
